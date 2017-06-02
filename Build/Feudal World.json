@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Feudal World.data.unityweb",
+"asmCodeUrl": "Feudal World.asm.code.unityweb",
+"asmMemoryUrl": "Feudal World.asm.memory.unityweb",
+"asmFrameworkUrl": "Feudal World.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
